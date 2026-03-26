@@ -98,7 +98,7 @@ export default function App() {
 
   const contactFields = [
     { label: 'Email', value: 'steelekade0@gmail.com' },
-    { label: 'Phone', value: '(555) 555-5555' },
+    { label: 'Phone', value: '(214) 808-9744' },
     { label: 'Location', value: 'San Marcos, Texas' },
   ];
 
