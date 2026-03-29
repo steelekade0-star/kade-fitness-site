@@ -78,19 +78,19 @@ export default function App() {
   const packages = [
     {
       title: 'Starter',
-      price: '$99/mo',
+      price: '$119/mo',
       features: ['2 sessions per week', 'Basic workout plan', 'Weekly check-ins'],
       featured: false,
     },
     {
       title: 'Transformation',
-      price: '$129/mo',
+      price: '$179/mo',
       features: ['3 sessions per week', 'Custom nutrition guidance', 'Priority support'],
       featured: true,
     },
     {
       title: 'Elite',
-      price: '$299/mo',
+      price: '$329/mo',
       features: ['4 sessions per week', 'Advanced programming', 'Full accountability coaching'],
       featured: false,
     },
